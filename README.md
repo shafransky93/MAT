@@ -16,4 +16,4 @@ The heart of this repository is built on the Keras API, and it will surely blow 
 
 If you're looking for a starting point to build your own custom Transformer models for text-based applications in the neon-lit dystopia of tomorrow, look no further. These soldiers have been tested and optimized for the most challenging cyber scenarios, ready to tackle any challenge you throw their way. The future is now, and it's time to join the revolution.
 
-[chatGPT response to 'Write a github description for this repository in a cyberpunk style.']
+[chatGPT response to 'Write a github repository description for this code in a cyberpunk style.']
